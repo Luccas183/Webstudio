@@ -1,0 +1,24 @@
+a[href="./index.html"]{
+    color: #2196F3;
+}
+a[href="./Portfolio.html"]{
+    color: #2196F3;
+}
+h1{
+    color: #fff  
+}
+button[button]{
+    color: #2196F3;
+}
+h3{
+    color:#FFF  
+}
+.navigation-link{
+    color: #2196F3;
+}
+.highlight{
+    background-color: #000;
+}
+p{
+    color: #757575;
+}
